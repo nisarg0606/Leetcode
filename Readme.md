@@ -1,0 +1,2 @@
+#Leetcode
+This is a repository for my solutions to Leetcode problems. I will be updating this repository as I solve more problems. I will be using Cpp for all my solutions. I will also be adding comments to explain my thought process and the logic behind my solutions.
